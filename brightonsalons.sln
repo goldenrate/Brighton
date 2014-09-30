@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D6C248F-AC6E-4C38-B88F-50AE433E983D}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "classifieds", "classifieds", "{F904262D-AEF2-48E3-85C9-6218E44EFA02}"
+	ProjectSection(SolutionItems) = preProject
+		recruit1.html = recruit1.html
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "curlyLanding", "http://localhost:32506", "{B539A133-9FE5-49DD-9500-BC2C2AF383DA}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_32506"
+		Debug.AspNetCompiler.PhysicalPath = "curlyLanding\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_32506\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_32506"
+		Release.AspNetCompiler.PhysicalPath = "curlyLanding\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_32506\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "curlyLanding\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B539A133-9FE5-49DD-9500-BC2C2AF383DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B539A133-9FE5-49DD-9500-BC2C2AF383DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F904262D-AEF2-48E3-85C9-6218E44EFA02} = {3D6C248F-AC6E-4C38-B88F-50AE433E983D}
+	EndGlobalSection
+EndGlobal
